@@ -70,7 +70,7 @@ def about():
        slowprint ("\033[1;33m" + "         [+] Tool Name     =>\033[1;36m" + " IP-Info")
        slowprint ("\033[1;33m" + "         [+] Autor         =>\033[1;36m" + " VPPHacker")
        slowprint ("\033[1;33m" + "         [+] Latest Update =>\033[1;36m" + " 17/3/2019")
-       slowprint ("\033[1;33m" + "         [+] YouTube       =>\033[1;36m" + " VPPHacker")
+       slowprint ("\033[1;33m" + "         [+] YouTube       =>\033[1;36m" + " MOSHIURVAU")
        slowprint ("\033[1;33m" + "         [+] Github        =>\033[1;36m" + " VPPHacker")
        slowprint ("\033[1;91m -----------------------------------------------")
        slowprint ("\033[1;95m" + "          [+] www.vpphacker.com [+]          ")
